@@ -33,7 +33,7 @@ var reverseList = function(head) {
 
 
 
-//Leetcode: 206. Reverse Linked List 
+//Solo 1: Leetcode: 206. Reverse Linked List 
 
 /** Original Question
 206. Reverse Linked List
@@ -68,7 +68,7 @@ var reverseList = function(head) {
 
 
 
-//Leetcode: 206. Reverse Linked List 
+//Explanation: Leetcode: 206. Reverse Linked List 
 
 /** Original Question
 206. Reverse Linked List
@@ -146,7 +146,7 @@ var reorderList = function(head) {
 
 
 
-//Leetcode: 143. Reorder List 
+//Solo 1: Leetcode: 143. Reorder List 
 
 /** Original Question
 143. Reorder List
@@ -183,7 +183,7 @@ var reorderList = function(head) {
 
 
 
-//Leetcode: 143. Reorder List 
+//Explanation: Leetcode: 143. Reorder List 
 
 /** Original Question
 143. Reorder List
@@ -263,7 +263,7 @@ var reverseKGroup = function(head, k) {
 
 
 
-//Leetcode: 25. Reverse Node in K-Group
+//Solo 1: Leetcode: 25. Reverse Node in K-Group
 
 /** Original Question
 25. Reverse Nodes in k-Group
@@ -301,7 +301,7 @@ var reverseKGroup = function(head, k) {
 
 
 
-//Leetcode: 25. Reverse Node in K-Group
+//Explanation: Leetcode: 25. Reverse Node in K-Group
 
 /** Original Question
 25. Reverse Nodes in k-Group
@@ -374,7 +374,7 @@ var reverseBetween = function(head, left, right) {
 
 
 
-//Leetcode: 92. Reverse Link List
+//Solo 1: Leetcode: 92. Reverse Link List
 
 /** Original Question
 92. Reverse Linked List II
@@ -405,7 +405,7 @@ var reverseBetween = function(head, left, right) {
 
 
 
-//Leetcode: 92. Reverse Link List
+//Explanation: Leetcode: 92. Reverse Link List
 
 /** Original Question
 92. Reverse Linked List II
